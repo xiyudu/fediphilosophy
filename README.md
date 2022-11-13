@@ -9,6 +9,9 @@ This page gives server guide and rules for the fediphilosophy Mastodon server on
 [What is Mastodon?](https://docs.joinmastodon.org/)
 
 # Table of Content
+1. [Getting started on fediphilosophy](#getting-started-on-fediphilosophy)
+2. [Server rules](#server-rules)
+3. [Support the server](#support-the-server)
 
 # Getting started on fediphilosophy
 
@@ -20,7 +23,7 @@ This is a real identity server. Please have identifying information somewhere in
 
 ### Q: does it mean I can only post professional content here?
 
-A: No. You can post whatever you want, as long as you obey [server rules](https://www.notion.so/Fediphilosophy-server-guide-and-rules-f698f52c7262482a8810f6da42cdbb9f). (Basically, don’t be a jerk!)
+A: No. You can post whatever you want, as long as you obey [server rules](#server-rules). (Basically, don’t be a jerk!)
 
 ## How to join?
 
@@ -52,15 +55,13 @@ There are many ways to disengage on Mastodon. You can filter content, block user
 
 (If anyone knows how to program bots and would like to help me, it would be much appreciated!)
 
-[Back to top](https://www.notion.so/Fediphilosophy-server-guide-and-rules-f698f52c7262482a8810f6da42cdbb9f)
-
 # Server rules
 
 - No hate speech, discrimination, or harassment.
 - Don’t do anything that’s illegial in Lithuania or where you live.
 - Use the Content Warning (CW) and the sensitive image features in accordance with common sense.
 - If you suspect someone is impersonating, please notify the admin.
-- As a general rule, if you dislike someone’s posts, [disengage with them first](https://www.notion.so/Fediphilosophy-server-guide-and-rules-f698f52c7262482a8810f6da42cdbb9f). Only report (and please do report) a user if 1) they are going out of their way to harass you or another user, or 2) you believe their conduct negatively affect the community.
+- As a general rule, if you dislike someone’s posts, [disengage with them first](#restricting-interaction). Only report (and please do report) a user if 1) they are going out of their way to harass you or another user, or 2) you believe their conduct negatively affect the community.
 - CW feature can be also used to collapse long posts, and is generally a good practice for long discussions on a narrow topic.
 - Most offenses will start with a warning. Especially egregious offenses may result in immediate bans.
 - Repeated baseless reporting will be warned and possibly banned, too.
@@ -68,7 +69,7 @@ There are many ways to disengage on Mastodon. You can filter content, block user
 ## Privacy and security
 
 <aside>
-❗ It is very important to know that you are using a server that I (the admin) own (well, rent, but same idea). Anything you post on the server, including private messages, are not private to me.
+It is very important to know that you are using a server that I (the admin) own (well, rent, but same idea). Anything you post on the server, including private messages, are not private to me.
 
 </aside>
 
@@ -76,15 +77,13 @@ I won’t want to read your private messages, but I can. If you want to send som
 
 I will do my due diligence to ensure the security of your data. But if disaster strikes, or if you are banned from the server, I am not obligated to recover your data. Please don’t use this server to store vital information.
 
-This server endorses freedom of expression in the sense that I will not ban or censor posts (unless they violate [server rules](https://www.notion.so/Fediphilosophy-server-guide-and-rules-f698f52c7262482a8810f6da42cdbb9f)). It does not mean that I can protect your online presence from other authorities.
+This server endorses freedom of expression in the sense that I will not ban or censor posts (unless they violate [server rules](#server-rules)). It does not mean that I can protect your online presence from other authorities.
 
 ## FAQ
 
 Q: What’s the character limit?
 
 A: 10k characters, which is about 2500 words. You can write your APA article here!
-
-[Back to top](https://www.notion.so/Fediphilosophy-server-guide-and-rules-f698f52c7262482a8810f6da42cdbb9f)
 
 # Support the server
 
