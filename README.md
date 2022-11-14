@@ -27,7 +27,7 @@ A: No. You can post whatever you want, as long as you obey [server rules](#serve
 
 ## How to join?
 
-Go to [fediphilosophy.org](http://fediphilosophy.org) to request an invitation. Please provide your academic name and a link to your institutional affiliated page. If you are not current affiliated, provide a link that proves you are an active researcher (e.g., google scholar site).
+Go to [fediphilosophy.org](https://fediphilosophy.org/about) to request an invitation. Please provide your academic name and a link to your institutional affiliated page. If you are not current affiliated, provide a link that proves you are an active researcher (e.g., google scholar site).
 
 You do not need to use an institutional email. In fact, it’s probably better if you use a free domain email like gmail or hotmail. (Our server domain is new and therefore looked upon suspiciously by institutional mail servers.)
 
