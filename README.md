@@ -107,10 +107,6 @@ Please: no financial contribution from precariously employed scholars.
 
 You’re also not at all expected to contribute financially. That said, if you really want to, you can do so here: [https://ko-fi.com/fediphilosophy](https://ko-fi.com/fediphilosophy)
 
-Currently (Nov 2022-2023), the per-year direct cost of this server is: 33.83 CAD for domain name and protection, 37.67 CAD for email, 180.72 CAD for hosting.
-
-(These prices will change in two (domain) or three (hosting) years.)
-
 # Credit
 
 Fediphilosophy is created and operated by Kino Zhao (@kinozhao@fediphilosophy.org) and Chrisy Xiyu Du (@xiyudu@fediscience.org)
