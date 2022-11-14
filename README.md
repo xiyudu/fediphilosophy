@@ -2,7 +2,7 @@
 
 Welcome to fediphilosophy.org, a Mastodon instance for academic philosophers (broadly construed)!
 
-This page gives server guide and rules for the fediphilosophy Mastodon server only. For a more detailed guide on Mastodon in general, here are some resources to refer to
+This page gives server guide and rules for the fediphilosophy Mastodon server only. For a more detailed guide on Mastodon in general, here are some resources to refer to:
 
 [An increasingly less-brief introduction to Mastodon](https://gist.github.com/joyeusenoelle/74f6e6c0f349651349a0df9ae4582969)
 
@@ -20,6 +20,8 @@ This page gives server guide and rules for the fediphilosophy Mastodon server on
 We welcome **past or current researchers** (including graduate students) and **teachers** whose work engage with philosophy. You don’t have to be affiliated with a philosophy department.
 
 This is a real identity server. Please have identifying information somewhere in your profile (username or display name or bio).
+
+Note: we are currently not accepting entities or groups to register, unless the account is identified with one individual who meets server's invitation rules.
 
 ### Q: does it mean I can only post professional content here?
 
