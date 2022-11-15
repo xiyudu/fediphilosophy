@@ -8,6 +8,8 @@ This page gives server guide and rules for the fediphilosophy Mastodon server on
 
 [What is Mastodon?](https://docs.joinmastodon.org/)
 
+[How To Use Mastodon and the Fediverse: Advanced Tips](https://fedi.tips/how-to-use-mastodon-and-the-fediverse-advanced-tips/)
+
 # Table of Content
 1. [Getting started on fediphilosophy](#getting-started-on-fediphilosophy)
 2. [Server rules](#server-rules)
