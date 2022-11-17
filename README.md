@@ -111,4 +111,4 @@ You’re also not at all expected to contribute financially. That said, if you r
 
 # Credit
 
-Fediphilosophy is created and operated by Kino Zhao (@kinozhao@fediphilosophy.org) and Chrisy Xiyu Du (@xiyudu@fediscience.org)
+Fediphilosophy is created and operated by Kino Zhao ([@kinozhao@fediphilosophy.org](https://fediphilosophy.org/@kinozhao)) and Chrisy Xiyu Du ([@xiyudu@fediphilosophy.org](https://fediphilosophy.org/@xiyudu))
