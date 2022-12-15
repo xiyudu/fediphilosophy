@@ -20,11 +20,18 @@ This page gives server guide and rules for the fediphilosophy Mastodon server on
 
 ## Who can join?
 
-We welcome **past or current researchers** (including graduate students) and **teachers** whose work engage with philosophy. You don’t have to be affiliated with a philosophy department.
+We welcome past or current academics (including graduate students) whose work engage with philosophy. You don’t have to be affiliated with a philosophy department.
 
-This is a real identity server. Please have identifying information somewhere in your profile (username or display name or bio).
+This is a **real identity** server. Please have identifying information somewhere in your profile (username or display name or bio).
 
-Note: we are currently not accepting entities or groups to register, unless the account is identified with one individual who meets server's invitation rules.
+We welcome accounts from all languages.
+
+### Institutional Accounts
+
+We welcome institutional accounts (departments, journals, societies, etc). Since we rely on real professional identity to curb problematic behaviour, we ask institutional accounts to comply with **one of the following**:
+
+*   Have a verified homepage that 1) displays enough information about your organization for mods to judge that it fits the target audience of our server, and 2) contains some way of contacting you. ([Here is a guide on how to verify a link.](https://opensource.com/article/22/11/verified-mastodon-website))
+*   Identify an individual (either through a real identity Mastodon account or a real name + contact), in bio, that fits our server invitation rules.
 
 ## How to join?
 
