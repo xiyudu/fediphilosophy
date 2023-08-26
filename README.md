@@ -16,6 +16,13 @@ This page gives server guide and rules for the fediphilosophy Mastodon server on
 3. [FAQ](#faq)
 4. [Support the server](#support-the-server)
 
+# Statement Against Data Scraping
+**Fediphilosophy does not support server’s data being used for any form of machine training**
+
+As of July 3rd, 2023, Google announced that it allowed itself to scrape any online content it has access to for the purpose of machine learning algorithm training. The admins of Fediphilosophy would like to state that we are against this practice, even though we currently do not possess the means to stop it.
+
+Please note that Fediphilosophy is currently indexed by Google, with individual account set to indexable by default. You can change this setting for your own account under Preferences.
+
 # Getting started on fediphilosophy
 
 ## Who can join?
